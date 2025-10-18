@@ -1,0 +1,33 @@
+Variable,Category,Count,Percent
+Degree,Assessment (HSG only),0,0
+Degree,Bachelor,12,24.5
+Degree,Master,34,69.4
+Degree,PhD,3,6.1
+Degree,State examination,0,0
+Certificate,Yes,28,57.1
+Certificate,No,21,42.9
+Stakeholder,University management,3,4.1
+Stakeholder,Sustainability Officer,3,4.1
+Stakeholder,Academic staff,15,20.3
+Stakeholder,Administrative staff,3,4.1
+Stakeholder,Students,49,66.2
+Stakeholder,Other,1,1.4
+Education,No degree,0,0
+Education,School degree,10,13.5
+Education,Apprenticeship,0,0
+Education,Bachelor's degree,29,39.2
+Education,Master's degree,21,28.4
+Education,State examination,0,0
+Education,Doctorate,13,17.6
+Education,Other,1,1.4
+Experience,"Yes, actively involved",34,45.9
+Experience,"Yes, passively informed",38,51.4
+Experience,"No, no points of contact",2,2.7
+Sustainability,Not at all interested,0,0
+Sustainability,Rather not interested,0,0
+Sustainability,Neutral,1,1.4
+Sustainability,Rather interested,17,23
+Sustainability,Very interested,56,75.7
+Tenure,Less than 5 years,48,64.9
+Tenure,5 to 10 years,20,27
+Tenure,More than 10 years,6,8.1

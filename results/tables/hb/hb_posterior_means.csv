@@ -1,0 +1,12 @@
+Attribute,Parameter,mu,order_within
+Business Model,Direct Investment,0.5835475461046106,1
+Business Model,Certificate NGO,0.5514286245947086,2
+Business Model,Certificate Company,-1.1349761706994126,3
+Location,Regional,0.2778427504959087,1
+Location,National,0.02773573325469235,2
+Location,International,-0.30557848375058305,3
+Synergy,Yes,0.9518375242598378,1
+Synergy,No,-0.9518375242598378,2
+Budget,User,0.7442916938414129,1
+Budget,Uni,-0.3446587353534041,2
+Budget,Funding,-0.3996329584879906,3

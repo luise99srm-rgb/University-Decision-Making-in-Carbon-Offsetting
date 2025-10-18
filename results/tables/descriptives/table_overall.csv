@@ -1,0 +1,35 @@
+Variable,Category,Count,Percent
+University,University of St.Gallen,74,60.7
+University,University of Konstanz,48,39.3
+Degree,Assessment (HSG only),0,0
+Degree,Bachelor,23,31.1
+Degree,Master,47,63.5
+Degree,PhD,4,5.4
+Degree,State examination,0,0
+Certificate,Yes,29,39.2
+Certificate,No,45,60.8
+Stakeholder,University management,3,2.5
+Stakeholder,Sustainability Officer,4,3.3
+Stakeholder,Academic staff,30,24.6
+Stakeholder,Administrative staff,9,7.4
+Stakeholder,Students,74,60.7
+Stakeholder,Other,2,1.6
+Education,No degree,0,0
+Education,School degree,20,16.4
+Education,Apprenticeship,0,0
+Education,Bachelor's degree,43,35.2
+Education,Master's degree,32,26.2
+Education,State examination,1,0.8
+Education,Doctorate,24,19.7
+Education,Other,2,1.6
+Experience,"Yes, actively involved",45,36.9
+Experience,"Yes, passively informed",73,59.8
+Experience,"No, no points of contact",4,3.3
+Sustainability,Not at all interested,0,0
+Sustainability,Rather not interested,0,0
+Sustainability,Neutral,4,3.3
+Sustainability,Rather interested,41,33.6
+Sustainability,Very interested,77,63.1
+Tenure,Less than 5 years,74,60.7
+Tenure,5 to 10 years,33,27
+Tenure,More than 10 years,15,12.3

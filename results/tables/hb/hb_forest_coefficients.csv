@@ -1,0 +1,12 @@
+group,label,utility,std,lower,upper,sig
+Business Model,Certificate Company,-54.64,36.01,-61.03,-48.25,Significant
+Business Model,Certificate NGO,25,50.81,15.98,34.02,Significant
+Business Model,Direct Investment,29.64,64.47,18.2,41.08,Significant
+Location,International,-14.2,35.47,-20.5,-7.91,Significant
+Location,National,-0.08,21.69,-3.93,3.77,Not significant
+Location,Regional,14.28,23.79,10.06,18.5,Significant
+Synergy,No,-43.97,34.96,-50.18,-37.77,Significant
+Synergy,Yes,43.97,34.96,37.77,50.18,Significant
+Budget,Uni,-17.53,40.36,-24.69,-10.37,Significant
+Budget,Funding,-17.4,48.56,-26.02,-8.78,Significant
+Budget,User,34.93,49.34,26.18,43.69,Significant

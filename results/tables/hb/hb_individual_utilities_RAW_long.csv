@@ -1,0 +1,1343 @@
+Respondent,label,utility,group
+1,Certificate NGO,2.46615799367041,Business Model
+1,Certificate Company,-1.65347412042367,Business Model
+1,Direct Investment,-0.812683873246744,Business Model
+1,Regional,0.250462259757778,Location
+1,National,0.00222319117846286,Location
+1,International,-0.252685450936244,Location
+1,No,-0.993952556025957,Synergy
+1,Yes,0.993952556025957,Synergy
+1,Uni,0.0357415597090114,Budget
+1,User,0.242626114846956,Budget
+1,Funding,-0.27836767455597,Budget
+4,Certificate NGO,1.79696772992115,Business Model
+4,Certificate Company,-0.987610015098931,Business Model
+4,Direct Investment,-0.809357714822194,Business Model
+4,Regional,-0.0105592457051711,Location
+4,National,0.436072522847233,Location
+4,International,-0.425513277142064,Location
+4,No,-1.1025889601403,Synergy
+4,Yes,1.1025889601403,Synergy
+4,Uni,0.735308781114104,Budget
+4,User,-1.2870927873023,Budget
+4,Funding,0.551784006188213,Budget
+7,Certificate NGO,1.37493275546938,Business Model
+7,Certificate Company,-2.09587868124742,Business Model
+7,Direct Investment,0.720945925778045,Business Model
+7,Regional,0.468127197795814,Location
+7,National,-0.192724976933136,Location
+7,International,-0.275402220862681,Location
+7,No,-1.44788652536001,Synergy
+7,Yes,1.44788652536001,Synergy
+7,Uni,-1.06374141238477,Budget
+7,User,1.93591999395106,Budget
+7,Funding,-0.872178581566263,Budget
+9,Certificate NGO,0.0584483986026676,Business Model
+9,Certificate Company,-1.45194708940718,Business Model
+9,Direct Investment,1.39349869080452,Business Model
+9,Regional,0.0914443328973105,Location
+9,National,0.581922472798682,Location
+9,International,-0.673366805695988,Location
+9,No,-1.66793950772396,Synergy
+9,Yes,1.66793950772396,Synergy
+9,Uni,-0.943908127684454,Budget
+9,User,1.15307292454834,Budget
+9,Funding,-0.209164796863872,Budget
+17,Certificate NGO,-1.14939043258105,Business Model
+17,Certificate Company,-2.05306222017812,Business Model
+17,Direct Investment,3.20245265275918,Business Model
+17,Regional,-0.144421705690631,Location
+17,National,0.0220850841062867,Location
+17,International,0.122336621584345,Location
+17,No,-0.608127382373614,Synergy
+17,Yes,0.608127382373614,Synergy
+17,Uni,-0.125590419948077,Budget
+17,User,0.688922314173627,Budget
+17,Funding,-0.563331894225554,Budget
+19,Certificate NGO,1.85860446115719,Business Model
+19,Certificate Company,-1.76816922414321,Business Model
+19,Direct Investment,-0.0904352370139912,Business Model
+19,Regional,0.104298014061709,Location
+19,National,0.0250851243256954,Location
+19,International,-0.129383138387406,Location
+19,No,-1.9693952588198,Synergy
+19,Yes,1.9693952588198,Synergy
+19,Uni,0.0010804657938485,Budget
+19,User,0.691315437513957,Budget
+19,Funding,-0.692395903307804,Budget
+22,Certificate NGO,1.67750547508499,Business Model
+22,Certificate Company,-0.540895374138302,Business Model
+22,Direct Investment,-1.13661010094669,Business Model
+22,Regional,0.741764923149584,Location
+22,National,0.186109696771419,Location
+22,International,-0.927874619921,Location
+22,No,-1.72085325093103,Synergy
+22,Yes,1.72085325093103,Synergy
+22,Uni,-0.490481547195724,Budget
+22,User,0.786816689558019,Budget
+22,Funding,-0.296335142362292,Budget
+25,Certificate NGO,0.0431448676029822,Business Model
+25,Certificate Company,-0.36557832045448,Business Model
+25,Direct Investment,0.32243345285149,Business Model
+25,Regional,0.314137570351559,Location
+25,National,-0.222826197566765,Location
+25,International,-0.09131137278479,Location
+25,No,-0.284557568341484,Synergy
+25,Yes,0.284557568341484,Synergy
+25,Uni,-0.200377128137182,Budget
+25,User,-0.181761256988182,Budget
+25,Funding,0.382138385125364,Budget
+26,Certificate NGO,-0.622993783408558,Business Model
+26,Certificate Company,0.225378502844959,Business Model
+26,Direct Investment,0.397615280563598,Business Model
+26,Regional,0.183576386680708,Location
+26,National,0.332803318617187,Location
+26,International,-0.516379705297898,Location
+26,No,0.261204203361812,Synergy
+26,Yes,-0.261204203361812,Synergy
+26,Uni,-1.59783318930727,Budget
+26,User,-0.0584055288356082,Budget
+26,Funding,1.65623871814287,Budget
+27,Certificate NGO,0.506507735812302,Business Model
+27,Certificate Company,-1.47160190361559,Business Model
+27,Direct Investment,0.965094167803305,Business Model
+27,Regional,0.456021926441695,Location
+27,National,-0.500453677520643,Location
+27,International,0.0444317510789486,Location
+27,No,-1.24939517904337,Synergy
+27,Yes,1.24939517904337,Synergy
+27,Uni,-0.2831536570209,Budget
+27,User,1.6895782108235,Budget
+27,Funding,-1.40642455380261,Budget
+28,Certificate NGO,1.20343410525,Business Model
+28,Certificate Company,-1.47063340026348,Business Model
+28,Direct Investment,0.267199295013496,Business Model
+28,Regional,0.555589004182587,Location
+28,National,-0.106993886775341,Location
+28,International,-0.448595117407249,Location
+28,No,-1.04360152759651,Synergy
+28,Yes,1.04360152759651,Synergy
+28,Uni,-1.53605280247524,Budget
+28,User,2.41810860746118,Budget
+28,Funding,-0.882055804985953,Budget
+29,Certificate NGO,0.110805910203191,Business Model
+29,Certificate Company,-0.242010052690781,Business Model
+29,Direct Investment,0.13120414248759,Business Model
+29,Regional,0.581533729843334,Location
+29,National,-0.240529276322901,Location
+29,International,-0.341004453520433,Location
+29,No,-0.392831211938511,Synergy
+29,Yes,0.392831211938511,Synergy
+29,Uni,-1.29865280410102,Budget
+29,User,2.66278262489854,Budget
+29,Funding,-1.3641298207975,Budget
+33,Certificate NGO,-1.95663476519919,Business Model
+33,Certificate Company,-1.35002084810645,Business Model
+33,Direct Investment,3.30665561330565,Business Model
+33,Regional,0.0676731833379946,Location
+33,National,-0.0232005434414343,Location
+33,International,-0.0444726398965589,Location
+33,No,0.133285335151604,Synergy
+33,Yes,-0.133285335151604,Synergy
+33,Uni,-0.266780464133763,Budget
+33,User,0.0983754314841208,Budget
+33,Funding,0.168405032649643,Budget
+34,Certificate NGO,1.4158772992833,Business Model
+34,Certificate Company,-1.51677171668033,Business Model
+34,Direct Investment,0.100894417397014,Business Model
+34,Regional,-0.118852234658562,Location
+34,National,-0.24615712430879,Location
+34,International,0.365009358967351,Location
+34,No,-0.18223176099542,Synergy
+34,Yes,0.18223176099542,Synergy
+34,Uni,-0.550440770730054,Budget
+34,User,2.49949916301048,Budget
+34,Funding,-1.9490583922804,Budget
+35,Certificate NGO,-0.0890266362681839,Business Model
+35,Certificate Company,-1.69653002485988,Business Model
+35,Direct Investment,1.78555666112806,Business Model
+35,Regional,0.112499268168901,Location
+35,National,-0.946310562805274,Location
+35,International,0.833811294636369,Location
+35,No,-0.173744290120981,Synergy
+35,Yes,0.173744290120981,Synergy
+35,Uni,-0.702547891955198,Budget
+35,User,2.28615633389538,Budget
+35,Funding,-1.58360844194018,Budget
+36,Certificate NGO,0.342266657860448,Business Model
+36,Certificate Company,-1.90309004151322,Business Model
+36,Direct Investment,1.56082338365275,Business Model
+36,Regional,-0.0475683582519933,Location
+36,National,-0.168949734844131,Location
+36,International,0.216518093096125,Location
+36,No,-1.84669464365305,Synergy
+36,Yes,1.84669464365305,Synergy
+36,Uni,0.205488084102964,Budget
+36,User,0.25621629818418,Budget
+36,Funding,-0.461704382287144,Budget
+42,Certificate NGO,1.39170861283185,Business Model
+42,Certificate Company,-2.19617870797315,Business Model
+42,Direct Investment,0.804470095141304,Business Model
+42,Regional,0.734454316410641,Location
+42,National,-0.0185980122842437,Location
+42,International,-0.715856304126396,Location
+42,No,-0.613000997674794,Synergy
+42,Yes,0.613000997674794,Synergy
+42,Uni,-0.582929462406335,Budget
+42,User,1.95888181842605,Budget
+42,Funding,-1.37595235601971,Budget
+45,Certificate NGO,0.153053449318732,Business Model
+45,Certificate Company,-1.50218693497362,Business Model
+45,Direct Investment,1.3491334856549,Business Model
+45,Regional,0.373551940725151,Location
+45,National,0.317786036169776,Location
+45,International,-0.69133797689493,Location
+45,No,-1.70956707094713,Synergy
+45,Yes,1.70956707094713,Synergy
+45,Uni,-1.28135651394402,Budget
+45,User,1.26682313485839,Budget
+45,Funding,0.0145333790856381,Budget
+46,Certificate NGO,-1.37566819058267,Business Model
+46,Certificate Company,-1.29778598416505,Business Model
+46,Direct Investment,2.67345417474773,Business Model
+46,Regional,0.0324632949772506,Location
+46,National,0.127056144074367,Location
+46,International,-0.159519439051616,Location
+46,No,-0.437380832448398,Synergy
+46,Yes,0.437380832448398,Synergy
+46,Uni,-0.0815835026059031,Budget
+46,User,-0.832549924161803,Budget
+46,Funding,0.914133426767712,Budget
+47,Certificate NGO,2.10319233261559,Business Model
+47,Certificate Company,-0.276744361051922,Business Model
+47,Direct Investment,-1.82644797156367,Business Model
+47,Regional,0.573492099878129,Location
+47,National,0.271905797868278,Location
+47,International,-0.845397897746405,Location
+47,No,-1.20597016525829,Synergy
+47,Yes,1.20597016525829,Synergy
+47,Uni,1.09306033506798,Budget
+47,User,0.38001613607523,Budget
+47,Funding,-1.47307647114322,Budget
+48,Certificate NGO,1.33411143520596,Business Model
+48,Certificate Company,-1.20466775655614,Business Model
+48,Direct Investment,-0.129443678649838,Business Model
+48,Regional,0.214418141177601,Location
+48,National,-0.887966422229704,Location
+48,International,0.673548281052084,Location
+48,No,-1.15593706843417,Synergy
+48,Yes,1.15593706843417,Synergy
+48,Uni,-0.68450783715196,Budget
+48,User,1.4500888694893601,Budget
+48,Funding,-0.765581032337422,Budget
+50,Certificate NGO,1.29983759929531,Business Model
+50,Certificate Company,-1.3075203241932,Business Model
+50,Direct Investment,0.00768272489788511,Business Model
+50,Regional,0.686585776091106,Location
+50,National,0.488001075324656,Location
+50,International,-1.17458685141575,Location
+50,No,-1.77295497964854,Synergy
+50,Yes,1.77295497964854,Synergy
+50,Uni,0.911686011719776,Budget
+50,User,0.105149234249498,Budget
+50,Funding,-1.01683524596926,Budget
+52,Certificate NGO,-0.690665588203126,Business Model
+52,Certificate Company,-2.00559984640422,Business Model
+52,Direct Investment,2.69626543460737,Business Model
+52,Regional,0.124715390618712,Location
+52,National,0.011091055113147,Location
+52,International,-0.135806445731857,Location
+52,No,-0.0576882566729769,Synergy
+52,Yes,0.0576882566729769,Synergy
+52,Uni,0.449903295841873,Budget
+52,User,0.610387039621102,Budget
+52,Funding,-1.06029033546297,Budget
+54,Certificate NGO,0.083221923674664,Business Model
+54,Certificate Company,-0.757641707180768,Business Model
+54,Direct Investment,0.67441978350611,Business Model
+54,Regional,0.955826433084152,Location
+54,National,-0.591715208916894,Location
+54,International,-0.364111224167252,Location
+54,No,0.0202525197118856,Synergy
+54,Yes,-0.0202525197118856,Synergy
+54,Uni,-1.54295930462729,Budget
+54,User,1.65741936249682,Budget
+54,Funding,-0.114460057869553,Budget
+58,Certificate NGO,-0.613362795126742,Business Model
+58,Certificate Company,0.557917280090069,Business Model
+58,Direct Investment,0.0554455150366788,Business Model
+58,Regional,0.633691488692179,Location
+58,National,3.45363560725818e-4,Location
+58,International,-0.634036852252914,Location
+58,No,-0.809815117584278,Synergy
+58,Yes,0.809815117584278,Synergy
+58,Uni,-1.41413068844162,Budget
+58,User,-0.65581881016509,Budget
+58,Funding,2.06994949860673,Budget
+60,Certificate NGO,-0.443792757106783,Business Model
+60,Certificate Company,-0.272292601392412,Business Model
+60,Direct Investment,0.716085358499202,Business Model
+60,Regional,1.27185623545614,Location
+60,National,0.243003268108836,Location
+60,International,-1.51485950356498,Location
+60,No,-1.46074816489345,Synergy
+60,Yes,1.46074816489345,Synergy
+60,Uni,-1.56561765847577,Budget
+60,User,0.851678634067516,Budget
+60,Funding,0.713939024408238,Budget
+61,Certificate NGO,0.633863763661723,Business Model
+61,Certificate Company,-1.3857494756871,Business Model
+61,Direct Investment,0.751885712025378,Business Model
+61,Regional,0.799016572733131,Location
+61,National,-0.0678124942545383,Location
+61,International,-0.731204078478587,Location
+61,No,-0.642210354875312,Synergy
+61,Yes,0.642210354875312,Synergy
+61,Uni,-1.4091912917657,Budget
+61,User,2.50754448346466,Budget
+61,Funding,-1.09835319169897,Budget
+63,Certificate NGO,-0.687782326310899,Business Model
+63,Certificate Company,-1.60186852136447,Business Model
+63,Direct Investment,2.28965084767538,Business Model
+63,Regional,-0.0540554891378754,Location
+63,National,0.0184639063398075,Location
+63,International,0.0355915827980676,Location
+63,No,0.267530679700872,Synergy
+63,Yes,-0.267530679700872,Synergy
+63,Uni,-1.06187907584233,Budget
+63,User,2.35031247981338,Budget
+63,Funding,-1.28843340397104,Budget
+71,Certificate NGO,0.0132719144147404,Business Model
+71,Certificate Company,0.712335068641273,Business Model
+71,Direct Investment,-0.725606983056026,Business Model
+71,Regional,0.678619672871563,Location
+71,National,-0.258457142246706,Location
+71,International,-0.420162530624858,Location
+71,No,0.389085977174264,Synergy
+71,Yes,-0.389085977174264,Synergy
+71,Uni,-1.06356253069927,Budget
+71,User,-0.306944078850084,Budget
+71,Funding,1.37050660954936,Budget
+72,Certificate NGO,2.47051505759207,Business Model
+72,Certificate Company,-1.54447363301207,Business Model
+72,Direct Investment,-0.926041424580021,Business Model
+72,Regional,0.017327683245537,Location
+72,National,0.446340118488685,Location
+72,International,-0.463667801734222,Location
+72,No,-0.698335882714532,Synergy
+72,Yes,0.698335882714532,Synergy
+72,Uni,0.519291329015055,Budget
+72,User,1.62347718986597,Budget
+72,Funding,-2.14276851888101,Budget
+73,Certificate NGO,-1.04447388630189,Business Model
+73,Certificate Company,-0.211478143061776,Business Model
+73,Direct Investment,1.25595202936364,Business Model
+73,Regional,0.419034568186517,Location
+73,National,-0.239111932022094,Location
+73,International,-0.179922636164422,Location
+73,No,-0.993062532432051,Synergy
+73,Yes,0.993062532432051,Synergy
+73,Uni,-1.82385028003382,Budget
+73,User,0.542259229999252,Budget
+73,Funding,1.28159105003457,Budget
+74,Certificate NGO,0.674463464097257,Business Model
+74,Certificate Company,-0.661874302645081,Business Model
+74,Direct Investment,-0.0125891614521671,Business Model
+74,Regional,0.282634364785412,Location
+74,National,-0.0883965319685242,Location
+74,International,-0.194237832816888,Location
+74,No,-2.08224573328022,Synergy
+74,Yes,2.08224573328022,Synergy
+74,Uni,-1.35470267439403,Budget
+74,User,0.306751074157763,Budget
+74,Funding,1.04795160023627,Budget
+75,Certificate NGO,-0.0440660484378732,Business Model
+75,Certificate Company,-2.20839261688132,Business Model
+75,Direct Investment,2.25245866531917,Business Model
+75,Regional,-0.242201819372105,Location
+75,National,-0.425951040979507,Location
+75,International,0.668152860351609,Location
+75,No,-0.15179473666239,Synergy
+75,Yes,0.15179473666239,Synergy
+75,Uni,-0.249048137908672,Budget
+75,User,1.75796527047367,Budget
+75,Funding,-1.50891713256499,Budget
+76,Certificate NGO,0.289881160467944,Business Model
+76,Certificate Company,-1.80132859628779,Business Model
+76,Direct Investment,1.51144743581985,Business Model
+76,Regional,-0.160774997795731,Location
+76,National,0.88412702783185,Location
+76,International,-0.723352030036122,Location
+76,No,-1.03186682259083,Synergy
+76,Yes,1.03186682259083,Synergy
+76,Uni,1.04291162294274,Budget
+76,User,-0.109541930429758,Budget
+76,Funding,-0.933369692512982,Budget
+78,Certificate NGO,-0.349577708009136,Business Model
+78,Certificate Company,-1.73151925939491,Business Model
+78,Direct Investment,2.08109696740404,Business Model
+78,Regional,0.407939097224797,Location
+78,National,-0.140719918133349,Location
+78,International,-0.267219179091448,Location
+78,No,-0.0214515991802583,Synergy
+78,Yes,0.0214515991802583,Synergy
+78,Uni,-1.04783346971893,Budget
+78,User,2.59125995087918,Budget
+78,Funding,-1.54342648116024,Budget
+81,Certificate NGO,1.182247980518,Business Model
+81,Certificate Company,-0.486673139940177,Business Model
+81,Direct Investment,-0.695574840577826,Business Model
+81,Regional,0.818940698779245,Location
+81,National,0.801502569058818,Location
+81,International,-1.62044326783806,Location
+81,No,-0.118724349270724,Synergy
+81,Yes,0.118724349270724,Synergy
+81,Uni,0.62656275382983,Budget
+81,User,-0.133673980497399,Budget
+81,Funding,-0.492888773332425,Budget
+82,Certificate NGO,-1.57779923937185,Business Model
+82,Certificate Company,-1.35929827656095,Business Model
+82,Direct Investment,2.93709751593283,Business Model
+82,Regional,0.3378618510471,Location
+82,National,0.206204511739077,Location
+82,International,-0.544066362786174,Location
+82,No,-0.289418119019661,Synergy
+82,Yes,0.289418119019661,Synergy
+82,Uni,-0.0743173908156672,Budget
+82,User,0.209170194860955,Budget
+82,Funding,-0.134852804045286,Budget
+83,Certificate NGO,1.5475901649891,Business Model
+83,Certificate Company,-1.82738258162117,Business Model
+83,Direct Investment,0.279792416632063,Business Model
+83,Regional,0.373997045693256,Location
+83,National,-0.506999974757396,Location
+83,International,0.133002929064135,Location
+83,No,-0.231195455545146,Synergy
+83,Yes,0.231195455545146,Synergy
+83,Uni,-0.897721543057921,Budget
+83,User,1.84788491289363,Budget
+83,Funding,-0.950163369835719,Budget
+85,Certificate NGO,1.744537056402,Business Model
+85,Certificate Company,-0.649804707782708,Business Model
+85,Direct Investment,-1.0947323486193,Business Model
+85,Regional,-0.231787928937256,Location
+85,National,-0.0171246606619059,Location
+85,International,0.248912589599163,Location
+85,No,-1.22273247147082,Synergy
+85,Yes,1.22273247147082,Synergy
+85,Uni,1.2548044599143,Budget
+85,User,-0.9018583718196,Budget
+85,Funding,-0.352946088094699,Budget
+87,Certificate NGO,-0.218546235617765,Business Model
+87,Certificate Company,-0.470191571736832,Business Model
+87,Direct Investment,0.688737807354601,Business Model
+87,Regional,0.302699053000236,Location
+87,National,0.134521974282785,Location
+87,International,-0.437221027283025,Location
+87,No,-2.10107256449867,Synergy
+87,Yes,2.10107256449867,Synergy
+87,Uni,-0.93768936660621,Budget
+87,User,-0.35558597410613,Budget
+87,Funding,1.29327534071233,Budget
+93,Certificate NGO,2.03219715189674,Business Model
+93,Certificate Company,-2.04071261492706,Business Model
+93,Direct Investment,0.00851546303030042,Business Model
+93,Regional,0.431881831991157,Location
+93,National,0.665538252721331,Location
+93,International,-1.09742008471249,Location
+93,No,-1.09762835864825,Synergy
+93,Yes,1.09762835864825,Synergy
+93,Uni,0.242780770467699,Budget
+93,User,0.346727576949293,Budget
+93,Funding,-0.589508347416994,Budget
+96,Certificate NGO,0.953072632025834,Business Model
+96,Certificate Company,-0.708135792865946,Business Model
+96,Direct Investment,-0.244936839159889,Business Model
+96,Regional,0.141735658291957,Location
+96,National,0.0902521113894226,Location
+96,International,-0.231987769681381,Location
+96,No,-1.00519446413946,Synergy
+96,Yes,1.00519446413946,Synergy
+96,Uni,2.0097549296054,Budget
+96,User,-0.937178908761033,Budget
+96,Funding,-1.07257602084438,Budget
+97,Certificate NGO,0.856475815321909,Business Model
+97,Certificate Company,-1.37501502109134,Business Model
+97,Direct Investment,0.518539205769428,Business Model
+97,Regional,0.629400959939178,Location
+97,National,0.285910388660412,Location
+97,International,-0.915311348599585,Location
+97,No,-0.789040454477323,Synergy
+97,Yes,0.789040454477323,Synergy
+97,Uni,-0.470622976057872,Budget
+97,User,2.07906238179413,Budget
+97,Funding,-1.60843940573629,Budget
+98,Certificate NGO,-0.58084041327287,Business Model
+98,Certificate Company,-0.243850323299895,Business Model
+98,Direct Investment,0.82469073657278,Business Model
+98,Regional,0.584259985716339,Location
+98,National,0.795705745911349,Location
+98,International,-1.37996573162768,Location
+98,No,-0.605214654562362,Synergy
+98,Yes,0.605214654562362,Synergy
+98,Uni,0.256389187966895,Budget
+98,User,0.598965718912034,Budget
+98,Funding,-0.85535490687893,Budget
+100,Certificate NGO,-1.26495728686145,Business Model
+100,Certificate Company,-1.21216515577776,Business Model
+100,Direct Investment,2.47712244263917,Business Model
+100,Regional,0.049214203291459,Location
+100,National,-0.54596213893775,Location
+100,International,0.496747935646297,Location
+100,No,-0.402254980783555,Synergy
+100,Yes,0.402254980783555,Synergy
+100,Uni,-1.6038214863949,Budget
+100,User,0.336624274846714,Budget
+100,Funding,1.26719721154818,Budget
+102,Certificate NGO,0.178668529710059,Business Model
+102,Certificate Company,-1.27322499751252,Business Model
+102,Direct Investment,1.09455646780247,Business Model
+102,Regional,0.324377797997241,Location
+102,National,-0.0190730565606146,Location
+102,International,-0.305304741436629,Location
+102,No,-1.90319986596703,Synergy
+102,Yes,1.90319986596703,Synergy
+102,Uni,-0.302214492317337,Budget
+102,User,-0.700897011299512,Budget
+102,Funding,1.00311150361684,Budget
+104,Certificate NGO,0.693191922418189,Business Model
+104,Certificate Company,-2.51340240893845,Business Model
+104,Direct Investment,1.82021048652028,Business Model
+104,Regional,-0.0459007114156537,Location
+104,National,0.341141873806002,Location
+104,International,-0.295241162390343,Location
+104,No,-0.862060719350478,Synergy
+104,Yes,0.862060719350478,Synergy
+104,Uni,1.0148819709632,Budget
+104,User,0.661678916445027,Budget
+104,Funding,-1.67656088740822,Budget
+106,Certificate NGO,2.01464172015357,Business Model
+106,Certificate Company,-0.643820580117081,Business Model
+106,Direct Investment,-1.37082114003652,Business Model
+106,Regional,0.729761185604838,Location
+106,National,0.065961699608685,Location
+106,International,-0.795722885213521,Location
+106,No,-0.812043499527946,Synergy
+106,Yes,0.812043499527946,Synergy
+106,Uni,-0.547109247738936,Budget
+106,User,2.07434809076065,Budget
+106,Funding,-1.52723884302172,Budget
+107,Certificate NGO,0.230970829906901,Business Model
+107,Certificate Company,-0.961111006443042,Business Model
+107,Direct Investment,0.730140176536141,Business Model
+107,Regional,0.662051592430507,Location
+107,National,0.0746468058871384,Location
+107,International,-0.736698398317644,Location
+107,No,-1.97261201203207,Synergy
+107,Yes,1.97261201203207,Synergy
+107,Uni,-1.07005376515886,Budget
+107,User,1.15961971813572,Budget
+107,Funding,-0.0895659529768623,Budget
+109,Certificate NGO,0.49685257620941,Business Model
+109,Certificate Company,-0.739812781343756,Business Model
+109,Direct Investment,0.242960205134349,Business Model
+109,Regional,0.57476312127099,Location
+109,National,-0.0785484680523367,Location
+109,International,-0.496214653218656,Location
+109,No,-0.447992860924157,Synergy
+109,Yes,0.447992860924157,Synergy
+109,Uni,-1.77821585881307,Budget
+109,User,1.36895584095555,Budget
+109,Funding,0.409260017857508,Budget
+110,Certificate NGO,-1.239246758873,Business Model
+110,Certificate Company,-1.70503522125368,Business Model
+110,Direct Investment,2.94428198012667,Business Model
+110,Regional,-0.621660620456941,Location
+110,National,0.146436847300913,Location
+110,International,0.475223773156032,Location
+110,No,-0.770696634229674,Synergy
+110,Yes,0.770696634229674,Synergy
+110,Uni,-0.324489830350947,Budget
+110,User,0.442722608667055,Budget
+110,Funding,-0.118232778316113,Budget
+111,Certificate NGO,0.28326987585524,Business Model
+111,Certificate Company,-0.860482044522553,Business Model
+111,Direct Investment,0.577212168667319,Business Model
+111,Regional,0.80920288440659,Location
+111,National,0.329106709432761,Location
+111,International,-1.13830959383933,Location
+111,No,-1.26610611026882,Synergy
+111,Yes,1.26610611026882,Synergy
+111,Uni,-0.29210914572024,Budget
+111,User,-0.657014870121118,Budget
+111,Funding,0.94912401584135,Budget
+114,Certificate NGO,-0.12160634240976,Business Model
+114,Certificate Company,-2.0164152306211802,Business Model
+114,Direct Investment,2.13802157303095,Business Model
+114,Regional,0.645551041972957,Location
+114,National,0.0311699435484033,Location
+114,International,-0.676720985521353,Location
+114,No,-1.68494974630551,Synergy
+114,Yes,1.68494974630551,Synergy
+114,Uni,-0.271003899906469,Budget
+114,User,0.842612319792494,Budget
+114,Funding,-0.571608419886018,Budget
+115,Certificate NGO,1.0254115216521,Business Model
+115,Certificate Company,-1.27628058505084,Business Model
+115,Direct Investment,0.250869063398733,Business Model
+115,Regional,0.676378827399705,Location
+115,National,0.118616247398701,Location
+115,International,-0.794995074798411,Location
+115,No,-2.31346199746103,Synergy
+115,Yes,2.31346199746103,Synergy
+115,Uni,-0.532169889344444,Budget
+115,User,0.99119453505006,Budget
+115,Funding,-0.459024645705607,Budget
+116,Certificate NGO,1.24974150354419,Business Model
+116,Certificate Company,-1.62572775726438,Business Model
+116,Direct Investment,0.375986253720185,Business Model
+116,Regional,0.167655629421437,Location
+116,National,0.29333895737591,Location
+116,International,-0.460994586797347,Location
+116,No,-0.432168878898357,Synergy
+116,Yes,0.432168878898357,Synergy
+116,Uni,-1.0199893386482,Budget
+116,User,2.63059964785084,Budget
+116,Funding,-1.61061030920264,Budget
+117,Certificate NGO,0.25599546979408,Business Model
+117,Certificate Company,-0.354015146076117,Business Model
+117,Direct Investment,0.0980196762820334,Business Model
+117,Regional,-0.0936684899447867,Location
+117,National,-0.326756020927373,Location
+117,International,0.420424510872162,Location
+117,No,0.546403069255615,Synergy
+117,Yes,-0.546403069255615,Synergy
+117,Uni,0.172716115159691,Budget
+117,User,0.741697053312692,Budget
+117,Funding,-0.914413168472394,Budget
+118,Certificate NGO,0.639422004491608,Business Model
+118,Certificate Company,0.00239343223659694,Business Model
+118,Direct Investment,-0.64181543672821,Business Model
+118,Regional,0.262766894126627,Location
+118,National,0.299408993532586,Location
+118,International,-0.562175887659214,Location
+118,No,-0.108152106352543,Synergy
+118,Yes,0.108152106352543,Synergy
+118,Uni,-1.43234177434263,Budget
+118,User,2.42177441980491,Budget
+118,Funding,-0.989432645462267,Budget
+119,Certificate NGO,0.682833915055668,Business Model
+119,Certificate Company,-1.78186979756147,Business Model
+119,Direct Investment,1.09903588250579,Business Model
+119,Regional,-0.544670256655535,Location
+119,National,-0.317991720282316,Location
+119,International,0.862661976937859,Location
+119,No,-0.179352767139768,Synergy
+119,Yes,0.179352767139768,Synergy
+119,Uni,-0.594303068085587,Budget
+119,User,1.68079774937759,Budget
+119,Funding,-1.08649468129202,Budget
+120,Certificate NGO,1.51160948613584,Business Model
+120,Certificate Company,-1.68620838394113,Business Model
+120,Direct Investment,0.174598897805297,Business Model
+120,Regional,0.401000884279932,Location
+120,National,1.12891395294872,Location
+120,International,-1.52991483722868,Location
+120,No,-0.495798788404165,Synergy
+120,Yes,0.495798788404165,Synergy
+120,Uni,0.841019634813965,Budget
+120,User,0.0429574917986788,Budget
+120,Funding,-0.883977126612645,Budget
+121,Certificate NGO,1.02635434405798,Business Model
+121,Certificate Company,-1.42991428574472,Business Model
+121,Direct Investment,0.403559941686741,Business Model
+121,Regional,0.384092306832757,Location
+121,National,0.194172210665148,Location
+121,International,-0.578264517497909,Location
+121,No,-0.383094079337189,Synergy
+121,Yes,0.383094079337189,Synergy
+121,Uni,0.286192760149234,Budget
+121,User,0.233208066190734,Budget
+121,Funding,-0.519400826339978,Budget
+122,Certificate NGO,2.766309551894,Business Model
+122,Certificate Company,-1.12562027139176,Business Model
+122,Direct Investment,-1.64068928050225,Business Model
+122,Regional,0.731902710328766,Location
+122,National,0.344955335343633,Location
+122,International,-1.07685804567241,Location
+122,No,-0.801696006619284,Synergy
+122,Yes,0.801696006619284,Synergy
+122,Uni,0.590471496503401,Budget
+122,User,0.331107945712372,Budget
+122,Funding,-0.921579442215779,Budget
+126,Certificate NGO,2.13387106616508,Business Model
+126,Certificate Company,-0.988870973577772,Business Model
+126,Direct Investment,-1.1450000925873,Business Model
+126,Regional,0.823385591491398,Location
+126,National,0.214144558392314,Location
+126,International,-1.03753014988371,Location
+126,No,-1.39686034250359,Synergy
+126,Yes,1.39686034250359,Synergy
+126,Uni,0.485665403774762,Budget
+126,User,0.424654268110607,Budget
+126,Funding,-0.91031967188538,Budget
+127,Certificate NGO,-0.638049119153111,Business Model
+127,Certificate Company,-1.72126207832909,Business Model
+127,Direct Investment,2.35931119748218,Business Model
+127,Regional,-0.0853116183187526,Location
+127,National,0.11108560703627,Location
+127,International,-0.0257739887175175,Location
+127,No,-0.951220132724504,Synergy
+127,Yes,0.951220132724504,Synergy
+127,Uni,0.826955800656457,Budget
+127,User,0.603190226301124,Budget
+127,Funding,-1.43014602695758,Budget
+131,Certificate NGO,0.510446044779281,Business Model
+131,Certificate Company,-1.47359670670658,Business Model
+131,Direct Investment,0.963150661927288,Business Model
+131,Regional,0.451695368440108,Location
+131,National,-0.299876932841457,Location
+131,International,-0.151818435598651,Location
+131,No,-2.03441267585209,Synergy
+131,Yes,2.03441267585209,Synergy
+131,Uni,-1.34645602472984,Budget
+131,User,1.32538031705989,Budget
+131,Funding,0.0210757076699471,Budget
+133,Certificate NGO,0.636379697904493,Business Model
+133,Certificate Company,-1.10186892449105,Business Model
+133,Direct Investment,0.465489226586538,Business Model
+133,Regional,0.63531922858205,Location
+133,National,-0.0751537075509672,Location
+133,International,-0.560165521031082,Location
+133,No,-2.15524892611948,Synergy
+133,Yes,2.15524892611948,Synergy
+133,Uni,-1.15114722026743,Budget
+133,User,0.497399134579666,Budget
+133,Funding,0.653748085687775,Budget
+139,Certificate NGO,-0.134365592228227,Business Model
+139,Certificate Company,-1.99786272876582,Business Model
+139,Direct Investment,2.13222832099403,Business Model
+139,Regional,-0.445281261854382,Location
+139,National,-0.354061167129625,Location
+139,International,0.799342428984006,Location
+139,No,-0.519053415515549,Synergy
+139,Yes,0.519053415515549,Synergy
+139,Uni,-0.362797177673435,Budget
+139,User,1.14773980331543,Budget
+139,Funding,-0.784942625641988,Budget
+142,Certificate NGO,0.54740004996704394,Business Model
+142,Certificate Company,-0.579688410565292,Business Model
+142,Direct Investment,0.032288360598241,Business Model
+142,Regional,0.303305013975542,Location
+142,National,-0.648684889698969,Location
+142,International,0.345379875723433,Location
+142,No,-1.35712414199965,Synergy
+142,Yes,1.35712414199965,Synergy
+142,Uni,-0.573604191990345,Budget
+142,User,-0.537483441283455,Budget
+142,Funding,1.11108763327379,Budget
+143,Certificate NGO,1.06070492198168,Business Model
+143,Certificate Company,0.167211492012133,Business Model
+143,Direct Investment,-1.22791641399381,Business Model
+143,Regional,1.52080868108775,Location
+143,National,0.115381638946538,Location
+143,International,-1.63619032003429,Location
+143,No,-1.07247103140479,Synergy
+143,Yes,1.07247103140479,Synergy
+143,Uni,-1.08450838827479,Budget
+143,User,0.0316488871123172,Budget
+143,Funding,1.05285950116246,Budget
+144,Certificate NGO,-1.16094474571071,Business Model
+144,Certificate Company,-1.83265287396619,Business Model
+144,Direct Investment,2.99359761967693,Business Model
+144,Regional,0.319711835228303,Location
+144,National,-0.568848768286201,Location
+144,International,0.249136933057902,Location
+144,No,-0.661115589547784,Synergy
+144,Yes,0.661115589547784,Synergy
+144,Uni,-0.414845626014293,Budget
+144,User,0.0529648900778914,Budget
+144,Funding,0.361880735936397,Budget
+145,Certificate NGO,2.45795630594809,Business Model
+145,Certificate Company,-0.696449960000633,Business Model
+145,Direct Investment,-1.76150634594742,Business Model
+145,Regional,-0.331402829335675,Location
+145,National,0.314168051598668,Location
+145,International,0.0172347777370052,Location
+145,No,-0.966986366173009,Synergy
+145,Yes,0.966986366173009,Synergy
+145,Uni,-0.575391464040734,Budget
+145,User,0.96712764396246,Budget
+145,Funding,-0.391736179921735,Budget
+146,Certificate NGO,0.201019695772179,Business Model
+146,Certificate Company,-0.962046224890274,Business Model
+146,Direct Investment,0.761026529118086,Business Model
+146,Regional,0.366237101218455,Location
+146,National,0.339849302825054,Location
+146,International,-0.706086404043499,Location
+146,No,-2.18332701421558,Synergy
+146,Yes,2.18332701421558,Synergy
+146,Uni,-0.952403851051261,Budget
+146,User,0.271479943105321,Budget
+146,Funding,0.680923907945922,Budget
+148,Certificate NGO,-0.166578887250162,Business Model
+148,Certificate Company,-0.807994105121164,Business Model
+148,Direct Investment,0.974572992371329,Business Model
+148,Regional,-0.198404072006997,Location
+148,National,-0.338412851389062,Location
+148,International,0.536816923396059,Location
+148,No,-0.913678721601137,Synergy
+148,Yes,0.913678721601137,Synergy
+148,Uni,-1.76966110751403,Budget
+148,User,1.99853663397398,Budget
+148,Funding,-0.228875526460012,Budget
+149,Certificate NGO,-0.0145592727376872,Business Model
+149,Certificate Company,-1.59499316135062,Business Model
+149,Direct Investment,1.60955243408832,Business Model
+149,Regional,0.196897465456114,Location
+149,National,0.556208400872854,Location
+149,International,-0.75310586632896,Location
+149,No,-0.452161469225624,Synergy
+149,Yes,0.452161469225624,Synergy
+149,Uni,-1.32759740930348,Budget
+149,User,1.60612061773674,Budget
+149,Funding,-0.278523208433269,Budget
+151,Certificate NGO,-0.38935134700524,Business Model
+151,Certificate Company,-1.03295668164797,Business Model
+151,Direct Investment,1.42230802865321,Business Model
+151,Regional,0.89853081262875,Location
+151,National,0.184355145958835,Location
+151,International,-1.08288595858759,Location
+151,No,-1.5019152758461,Synergy
+151,Yes,1.5019152758461,Synergy
+151,Uni,-1.48928256840219,Budget
+151,User,1.54917051589399,Budget
+151,Funding,-0.0598879474918223,Budget
+152,Certificate NGO,1.26218103952858,Business Model
+152,Certificate Company,-1.49653744229401,Business Model
+152,Direct Investment,0.234356402765415,Business Model
+152,Regional,0.491979253228271,Location
+152,National,0.0818117421984108,Location
+152,International,-0.573790995426683,Location
+152,No,-2.13012210205581,Synergy
+152,Yes,2.13012210205581,Synergy
+152,Uni,-0.294438833294077,Budget
+152,User,0.64954596907394,Budget
+152,Funding,-0.355107135779853,Budget
+153,Certificate NGO,0.581867147977556,Business Model
+153,Certificate Company,-1.50076517164975,Business Model
+153,Direct Investment,0.918898023672205,Business Model
+153,Regional,0.130811033029158,Location
+153,National,-0.385836900056794,Location
+153,International,0.255025867027635,Location
+153,No,-1.9475076258552,Synergy
+153,Yes,1.9475076258552,Synergy
+153,Uni,-1.01647522107163,Budget
+153,User,0.457980129168067,Budget
+153,Funding,0.55849509190356,Budget
+154,Certificate NGO,-0.324174072679412,Business Model
+154,Certificate Company,-2.06529728422521,Business Model
+154,Direct Investment,2.38947135690464,Business Model
+154,Regional,-0.513397349094542,Location
+154,National,-0.355157145206087,Location
+154,International,0.86855449430063,Location
+154,No,-0.534421884173019,Synergy
+154,Yes,0.534421884173019,Synergy
+154,Uni,-0.118090713489932,Budget
+154,User,1.81383523731055,Budget
+154,Funding,-1.69574452382062,Budget
+155,Certificate NGO,0.723532186893282,Business Model
+155,Certificate Company,-1.75537939766506,Business Model
+155,Direct Investment,1.03184721077176,Business Model
+155,Regional,-0.294447260124401,Location
+155,National,-0.542639532787519,Location
+155,International,0.837086792911929,Location
+155,No,-0.171696933253946,Synergy
+155,Yes,0.171696933253946,Synergy
+155,Uni,-0.0836848175243543,Budget
+155,User,2.37593714162986,Budget
+155,Funding,-2.29225232410549,Budget
+156,Certificate NGO,1.62474144720112,Business Model
+156,Certificate Company,-1.15763236223371,Business Model
+156,Direct Investment,-0.46710908496741,Business Model
+156,Regional,0.762456258904097,Location
+156,National,0.0962778761254823,Location
+156,International,-0.858734135029583,Location
+156,No,-2.07022227632908,Synergy
+156,Yes,2.07022227632908,Synergy
+156,Uni,-0.0583036399113621,Budget
+156,User,-0.0694954152845154,Budget
+156,Funding,0.127799055195877,Budget
+158,Certificate NGO,2.61093172702946,Business Model
+158,Certificate Company,-1.21824554317914,Business Model
+158,Direct Investment,-1.39268618385033,Business Model
+158,Regional,0.759001803021549,Location
+158,National,0.539607062925644,Location
+158,International,-1.29860886594718,Location
+158,No,-1.0549359275121,Synergy
+158,Yes,1.0549359275121,Synergy
+158,Uni,0.291394806800768,Budget
+158,User,0.192752131901003,Budget
+158,Funding,-0.484146938701772,Budget
+159,Certificate NGO,1.85522908400202,Business Model
+159,Certificate Company,-0.0549446826897474,Business Model
+159,Direct Investment,-1.8002844013123,Business Model
+159,Regional,1.13103882179285,Location
+159,National,0.396809661285718,Location
+159,International,-1.52784848307856,Location
+159,No,-0.917404613438945,Synergy
+159,Yes,0.917404613438945,Synergy
+159,Uni,0.161402628984026,Budget
+159,User,1.03058333525258,Budget
+159,Funding,-1.19198596423661,Budget
+160,Certificate NGO,0.226544535199821,Business Model
+160,Certificate Company,-0.54849794377677,Business Model
+160,Direct Investment,0.321953408576956,Business Model
+160,Regional,0.480590071716542,Location
+160,National,0.0459778029498648,Location
+160,International,-0.526567874666414,Location
+160,No,-1.02102695361051,Synergy
+160,Yes,1.02102695361051,Synergy
+160,Uni,-1.24045645323735,Budget
+160,User,-0.962050758138663,Budget
+160,Funding,2.20250721137599,Budget
+161,Certificate NGO,0.204748860633781,Business Model
+161,Certificate Company,-1.82040221039218,Business Model
+161,Direct Investment,1.6156533497584,Business Model
+161,Regional,0.673403287840996,Location
+161,National,0.621198824884008,Location
+161,International,-1.29460211272498,Location
+161,No,-0.961458486949731,Synergy
+161,Yes,0.961458486949731,Synergy
+161,Uni,-0.84602453210461,Budget
+161,User,1.23757322675127,Budget
+161,Funding,-0.391548694646672,Budget
+163,Certificate NGO,1.32690413977563,Business Model
+163,Certificate Company,-1.43794632403322,Business Model
+163,Direct Investment,0.111042184257597,Business Model
+163,Regional,0.268783489445116,Location
+163,National,-0.0295805358422692,Location
+163,International,-0.239202953602844,Location
+163,No,-2.2363128722028,Synergy
+163,Yes,2.2363128722028,Synergy
+163,Uni,0.14241643102866,Budget
+163,User,-0.0696430889526431,Budget
+163,Funding,-0.0727733420760157,Budget
+165,Certificate NGO,0.524941152214026,Business Model
+165,Certificate Company,-0.567604552781048,Business Model
+165,Direct Investment,0.0426634005670252,Business Model
+165,Regional,-0.483909278497792,Location
+165,National,-0.501707710404877,Location
+165,International,0.985616988902678,Location
+165,No,0.185872890589935,Synergy
+165,Yes,-0.185872890589935,Synergy
+165,Uni,0.643242850733187,Budget
+165,User,-0.65592380329279,Budget
+165,Funding,0.012680952559595,Budget
+168,Certificate NGO,-0.285426351975481,Business Model
+168,Certificate Company,-1.77121220268181,Business Model
+168,Direct Investment,2.05663855465732,Business Model
+168,Regional,-0.300695932950585,Location
+168,National,-0.301668539638848,Location
+168,International,0.602364472589432,Location
+168,No,-1.48211071731767,Synergy
+168,Yes,1.48211071731767,Synergy
+168,Uni,-0.0978082379396276,Budget
+168,User,-0.691260672777224,Budget
+168,Funding,0.789068910716848,Budget
+173,Certificate NGO,-0.731121662929176,Business Model
+173,Certificate Company,-1.86418654733572,Business Model
+173,Direct Investment,2.59530821026492,Business Model
+173,Regional,-0.497574388590812,Location
+173,National,0.123002645607986,Location
+173,International,0.374571742982819,Location
+173,No,-0.312169489127154,Synergy
+173,Yes,0.312169489127154,Synergy
+173,Uni,-0.121607311993967,Budget
+173,User,-0.016601586813927,Budget
+173,Funding,0.138208898807893,Budget
+183,Certificate NGO,0.898684448868289,Business Model
+183,Certificate Company,-2.31255446082135,Business Model
+183,Direct Investment,1.41387001195305,Business Model
+183,Regional,-0.5701979853406,Location
+183,National,0.076069965488404,Location
+183,International,0.494128019852184,Location
+183,No,-0.961458110748669,Synergy
+183,Yes,0.961458110748669,Synergy
+183,Uni,1.09596283190058,Budget
+183,User,0.650613255046988,Budget
+183,Funding,-1.74657608694761,Budget
+193,Certificate NGO,0.327352776470979,Business Model
+193,Certificate Company,0.503369978476925,Business Model
+193,Direct Investment,-0.830722754947906,Business Model
+193,Regional,0.510926332139922,Location
+193,National,-0.548976154080439,Location
+193,International,0.0380498219405257,Location
+193,No,0.210547371184532,Synergy
+193,Yes,-0.210547371184532,Synergy
+193,Uni,-0.0356045813681565,Budget
+193,User,-0.188229393047201,Budget
+193,Funding,0.223833974415355,Budget
+199,Certificate NGO,0.691991802268758,Business Model
+199,Certificate Company,-0.726733312405048,Business Model
+199,Direct Investment,0.0347415101362971,Business Model
+199,Regional,-0.207405288392603,Location
+199,National,0.417399224649268,Location
+199,International,-0.20999393625667,Location
+199,No,-1.96415673554406,Synergy
+199,Yes,1.96415673554406,Synergy
+199,Uni,-0.805543862028851,Budget
+199,User,0.992990875810564,Budget
+199,Funding,-0.187447013781706,Budget
+202,Certificate NGO,1.06109866897743,Business Model
+202,Certificate Company,-1.82770205544818,Business Model
+202,Direct Investment,0.766603386470784,Business Model
+202,Regional,-0.0420669698372751,Location
+202,National,-0.148413138037773,Location
+202,International,0.190480107875048,Location
+202,No,-0.96960024379958,Synergy
+202,Yes,0.96960024379958,Synergy
+202,Uni,-0.576114276850846,Budget
+202,User,0.450843544910859,Budget
+202,Funding,0.125270731939997,Budget
+204,Certificate NGO,1.02189019012933,Business Model
+204,Certificate Company,-1.41472729588005,Business Model
+204,Direct Investment,0.392837105750732,Business Model
+204,Regional,0.261264967603525,Location
+204,National,0.152367204634007,Location
+204,International,-0.41363217223753,Location
+204,No,-2.27442668633796,Synergy
+204,Yes,2.27442668633796,Synergy
+204,Uni,-0.411545230501963,Budget
+204,User,4.60150808904793e-4,Budget
+204,Funding,0.411085079693056,Budget
+206,Certificate NGO,1.81335729374595,Business Model
+206,Certificate Company,-1.94754437802756,Business Model
+206,Direct Investment,0.134187084281624,Business Model
+206,Regional,0.120911935578777,Location
+206,National,0.488021432763033,Location
+206,International,-0.608933368341814,Location
+206,No,-0.437717824264766,Synergy
+206,Yes,0.437717824264766,Synergy
+206,Uni,0.261209904761152,Budget
+206,User,1.9205946372464,Budget
+206,Funding,-2.18180454200752,Budget
+209,Certificate NGO,-0.8834070495996,Business Model
+209,Certificate Company,-2.02009257759693,Business Model
+209,Direct Investment,2.90349962719649,Business Model
+209,Regional,-0.107460492953744,Location
+209,National,-0.074927015522662,Location
+209,International,0.182387508476406,Location
+209,No,-0.904946228356894,Synergy
+209,Yes,0.904946228356894,Synergy
+209,Uni,0.0797581874814949,Budget
+209,User,-0.148633214070663,Budget
+209,Funding,0.0688750265891684,Budget
+211,Certificate NGO,0.876146259138732,Business Model
+211,Certificate Company,0.0077337258138124,Business Model
+211,Direct Investment,-0.883879984952542,Business Model
+211,Regional,0.453600279529764,Location
+211,National,0.593841995712608,Location
+211,International,-1.04744227524236,Location
+211,No,0.329259518277842,Synergy
+211,Yes,-0.329259518277842,Synergy
+211,Uni,-0.10937868266656,Budget
+211,User,0.311554028254552,Budget
+211,Funding,-0.202175345587991,Budget
+212,Certificate NGO,0.111099955535334,Business Model
+212,Certificate Company,-2.01545414561143,Business Model
+212,Direct Investment,1.9043541900761,Business Model
+212,Regional,-0.439746078080388,Location
+212,National,-0.545077082805822,Location
+212,International,0.984823160886228,Location
+212,No,-0.51444945618349,Synergy
+212,Yes,0.51444945618349,Synergy
+212,Uni,-0.254580323145389,Budget
+212,User,1.56306420330221,Budget
+212,Funding,-1.30848388015687,Budget
+213,Certificate NGO,-0.43739099845725,Business Model
+213,Certificate Company,-1.39666605933812,Business Model
+213,Direct Investment,1.83405705779537,Business Model
+213,Regional,0.68835367586287,Location
+213,National,-0.0850002753555459,Location
+213,International,-0.603353400507324,Location
+213,No,-1.35665248934063,Synergy
+213,Yes,1.35665248934063,Synergy
+213,Uni,0.317101177796869,Budget
+213,User,0.84332135392529,Budget
+213,Funding,-1.16042253172215,Budget
+214,Certificate NGO,0.568879045015967,Business Model
+214,Certificate Company,0.00990759703684112,Business Model
+214,Direct Investment,-0.578786642052804,Business Model
+214,Regional,-0.981177147098965,Location
+214,National,-0.690055007744916,Location
+214,International,1.67123215484387,Location
+214,No,-0.0176611835713125,Synergy
+214,Yes,0.0176611835713125,Synergy
+214,Uni,-0.466632795942628,Budget
+214,User,0.340429577094113,Budget
+214,Funding,0.126203218848513,Budget
+216,Certificate NGO,1.31512636093706,Business Model
+216,Certificate Company,-0.856099554194566,Business Model
+216,Direct Investment,-0.459026806742493,Business Model
+216,Regional,0.591692767432182,Location
+216,National,0.287829903363331,Location
+216,International,-0.879522670795516,Location
+216,No,-1.60107939773895,Synergy
+216,Yes,1.60107939773895,Synergy
+216,Uni,-0.412936676124553,Budget
+216,User,1.62504189746944,Budget
+216,Funding,-1.2121052213449,Budget
+217,Certificate NGO,0.137749910793337,Business Model
+217,Certificate Company,-1.16390000315823,Business Model
+217,Direct Investment,1.02615009236489,Business Model
+217,Regional,0.474488381064105,Location
+217,National,-0.0399522219637686,Location
+217,International,-0.434536159100333,Location
+217,No,-1.80349992317503,Synergy
+217,Yes,1.80349992317503,Synergy
+217,Uni,-1.56948957095035,Budget
+217,User,1.50374336991185,Budget
+217,Funding,0.0657462010385021,Budget
+218,Certificate NGO,0.947974438026237,Business Model
+218,Certificate Company,-0.854041443180317,Business Model
+218,Direct Investment,-0.0939329948459141,Business Model
+218,Regional,0.980334080996792,Location
+218,National,0.35725154245066,Location
+218,International,-1.33758562344745,Location
+218,No,-1.48029974265238,Synergy
+218,Yes,1.48029974265238,Synergy
+218,Uni,-0.76418243691846,Budget
+218,User,0.726633082913385,Budget
+218,Funding,0.0375493540050749,Budget
+220,Certificate NGO,1.09174234477828,Business Model
+220,Certificate Company,-1.29142105210589,Business Model
+220,Direct Investment,0.199678707327613,Business Model
+220,Regional,1.02352773157688,Location
+220,National,-0.474063073891231,Location
+220,International,-0.549464657685629,Location
+220,No,-0.781279001452502,Synergy
+220,Yes,0.781279001452502,Synergy
+220,Uni,0.620913843710182,Budget
+220,User,0.843111124170271,Budget
+220,Funding,-1.46402496788045,Budget
+222,Certificate NGO,-1.41599109322558,Business Model
+222,Certificate Company,0.65994713553745,Business Model
+222,Direct Investment,0.75604395768815,Business Model
+222,Regional,0.248772528052183,Location
+222,National,-0.465365999681044,Location
+222,International,0.216593471628861,Location
+222,No,0.772965153270303,Synergy
+222,Yes,-0.772965153270303,Synergy
+222,Uni,-0.317534878187422,Budget
+222,User,-0.0244897265495099,Budget
+222,Funding,0.342024604736926,Budget
+223,Certificate NGO,1.85024780936922,Business Model
+223,Certificate Company,-1.55981110635602,Business Model
+223,Direct Investment,-0.290436703013173,Business Model
+223,Regional,0.237098360043119,Location
+223,National,-0.312242847274432,Location
+223,International,0.0751444872313157,Location
+223,No,-1.73956058328651,Synergy
+223,Yes,1.73956058328651,Synergy
+223,Uni,0.553810552546347,Budget
+223,User,0.806974200722963,Budget
+223,Funding,-1.36078475326932,Budget
+224,Certificate NGO,1.14083640264693,Business Model
+224,Certificate Company,-0.304292702674389,Business Model
+224,Direct Investment,-0.836543699972564,Business Model
+224,Regional,1.20399954006967,Location
+224,National,-0.497298696782839,Location
+224,International,-0.70670084328684,Location
+224,No,-0.167338087903574,Synergy
+224,Yes,0.167338087903574,Synergy
+224,Uni,-0.115762592515919,Budget
+224,User,1.67699539966367,Budget
+224,Funding,-1.56123280714773,Budget
+226,Certificate NGO,0.54578466950599,Business Model
+226,Certificate Company,-1.53785338285208,Business Model
+226,Direct Investment,0.992068713346103,Business Model
+226,Regional,0.59683133178056,Location
+226,National,0.528864468064824,Location
+226,International,-1.12569579984539,Location
+226,No,-1.21427564137427,Synergy
+226,Yes,1.21427564137427,Synergy
+226,Uni,0.181217542054928,Budget
+226,User,1.38758537339741,Budget
+226,Funding,-1.56880291545232,Budget
+228,Certificate NGO,1.10957216694995,Business Model
+228,Certificate Company,-0.192558524378813,Business Model
+228,Direct Investment,-0.917013642571139,Business Model
+228,Regional,0.911667348429394,Location
+228,National,-0.105760258459745,Location
+228,International,-0.805907089969647,Location
+228,No,-2.00901611946967,Synergy
+228,Yes,2.00901611946967,Synergy
+228,Uni,-0.105979317431384,Budget
+228,User,-0.661804109946618,Budget
+228,Funding,0.767783427378006,Budget
+229,Certificate NGO,-0.185629661156694,Business Model
+229,Certificate Company,-1.66411049677161,Business Model
+229,Direct Investment,1.84974015792828,Business Model
+229,Regional,0.0236360275113881,Location
+229,National,-0.243557054877358,Location
+229,International,0.219921027365971,Location
+229,No,-1.19306221812039,Synergy
+229,Yes,1.19306221812039,Synergy
+229,Uni,-0.554795140487362,Budget
+229,User,0.916968598015212,Budget
+229,Funding,-0.362173457527843,Budget
+231,Certificate NGO,1.16564706185827,Business Model
+231,Certificate Company,-1.78521961762297,Business Model
+231,Direct Investment,0.619572555764697,Business Model
+231,Regional,0.832407941564809,Location
+231,National,0.640510763482866,Location
+231,International,-1.47291870504767,Location
+231,No,-0.764724108125757,Synergy
+231,Yes,0.764724108125757,Synergy
+231,Uni,-0.37000817208215,Budget
+231,User,0.934360553580748,Budget
+231,Funding,-0.564352381498603,Budget
+232,Certificate NGO,-1.34044238825305,Business Model
+232,Certificate Company,-1.7114125267635,Business Model
+232,Direct Investment,3.05185491501658,Business Model
+232,Regional,-0.170392792933734,Location
+232,National,-0.184368593588964,Location
+232,International,0.354761386522701,Location
+232,No,-1.20920138438149,Synergy
+232,Yes,1.20920138438149,Synergy
+232,Uni,-0.401680779436997,Budget
+232,User,0.273871994768753,Budget
+232,Funding,0.127808784668247,Budget
+234,Certificate NGO,2.35983465707828,Business Model
+234,Certificate Company,-0.245391844212507,Business Model
+234,Direct Investment,-2.11444281286574,Business Model
+234,Regional,0.34224566311336,Location
+234,National,0.00912396332229958,Location
+234,International,-0.351369626435663,Location
+234,No,-1.05951710003662,Synergy
+234,Yes,1.05951710003662,Synergy
+234,Uni,0.121076901522712,Budget
+234,User,-0.0326878144818948,Budget
+234,Funding,-0.0883890870408174,Budget
+235,Certificate NGO,0.807208232681184,Business Model
+235,Certificate Company,-2.0516944925323,Business Model
+235,Direct Investment,1.24448625985114,Business Model
+235,Regional,-0.0782556959742387,Location
+235,National,0.313393623340933,Location
+235,International,-0.235137927366694,Location
+235,No,-0.98750572324731,Synergy
+235,Yes,0.98750572324731,Synergy
+235,Uni,0.875333843407832,Budget
+235,User,0.563178549939533,Budget
+235,Funding,-1.43851239334736,Budget
+237,Certificate NGO,-0.217726278611329,Business Model
+237,Certificate Company,-0.0583682024043308,Business Model
+237,Direct Investment,0.276094481015664,Business Model
+237,Regional,-0.420510227607708,Location
+237,National,-0.649851678838519,Location
+237,International,1.07036190644623,Location
+237,No,-1.27350413492598,Synergy
+237,Yes,1.27350413492598,Synergy
+237,Uni,-0.0663322415569686,Budget
+237,User,-0.588704545681524,Budget
+237,Funding,0.655036787238498,Budget
+239,Certificate NGO,2.17808121639196,Business Model
+239,Certificate Company,-1.66742565281334,Business Model
+239,Direct Investment,-0.510655563578617,Business Model
+239,Regional,0.497332883162637,Location
+239,National,0.364849103393691,Location
+239,International,-0.862181986556328,Location
+239,No,-0.932528322367623,Synergy
+239,Yes,0.932528322367623,Synergy
+239,Uni,1.35484046165457,Budget
+239,User,-0.167415826651756,Budget
+239,Funding,-1.1874246350028,Budget
+241,Certificate NGO,2.31155640993292,Business Model
+241,Certificate Company,-0.472542325324445,Business Model
+241,Direct Investment,-1.83901408460846,Business Model
+241,Regional,0.515054679782747,Location
+241,National,0.482900240934568,Location
+241,International,-0.997954920717316,Location
+241,No,-0.69394410455727,Synergy
+241,Yes,0.69394410455727,Synergy
+241,Uni,-0.57863610903199,Budget
+241,User,1.59101915135444,Budget
+241,Funding,-1.01238304232245,Budget
+243,Certificate NGO,0.696605196079741,Business Model
+243,Certificate Company,-0.583332311325572,Business Model
+243,Direct Investment,-0.113272884754175,Business Model
+243,Regional,0.0863719884844189,Location
+243,National,-0.0091477964111913,Location
+243,International,-0.0772241920732284,Location
+243,No,-1.94431884194067,Synergy
+243,Yes,1.94431884194067,Synergy
+243,Uni,0.721062014502268,Budget
+243,User,-0.991990228394805,Budget
+243,Funding,0.270928213892526,Budget
+244,Certificate NGO,0.909362449396024,Business Model
+244,Certificate Company,-1.00203788471881,Business Model
+244,Direct Investment,0.0926754353227882,Business Model
+244,Regional,0.472644083432765,Location
+244,National,-0.160405625258489,Location
+244,International,-0.312238458174277,Location
+244,No,-0.731736995420727,Synergy
+244,Yes,0.731736995420727,Synergy
+244,Uni,-1.25641950238699,Budget
+244,User,2.86396198126961,Budget
+244,Funding,-1.60754247888261,Budget
+246,Certificate NGO,0.522485302474681,Business Model
+246,Certificate Company,-0.487397016009978,Business Model
+246,Direct Investment,-0.0350882864647073,Business Model
+246,Regional,0.760585986191657,Location
+246,National,6.31585594583627e-4,Location
+246,International,-0.761217571786238,Location
+246,No,-0.50247501785428506,Synergy
+246,Yes,0.50247501785428506,Synergy
+246,Uni,-1.55296219412072,Budget
+246,User,2.76254779467123,Budget
+246,Funding,-1.20958560055049,Budget
+249,Certificate NGO,0.127776356316754,Business Model
+249,Certificate Company,-0.751685662722069,Business Model
+249,Direct Investment,0.623909306405324,Business Model
+249,Regional,-0.0469786258393022,Location
+249,National,-0.120992779766384,Location
+249,International,0.167971405605688,Location
+249,No,-1.78781041870237,Synergy
+249,Yes,1.78781041870237,Synergy
+249,Uni,-1.52714107191458,Budget
+249,User,-0.0897668854735954,Budget
+249,Funding,1.61690795738818,Budget
+252,Certificate NGO,-0.224453246405128,Business Model
+252,Certificate Company,-0.54086984123841,Business Model
+252,Direct Investment,0.765323087643531,Business Model
+252,Regional,0.175611660660179,Location
+252,National,0.275814563777226,Location
+252,International,-0.451426224437402,Location
+252,No,-0.11010772229709,Synergy
+252,Yes,0.11010772229709,Synergy
+252,Uni,-0.336603624720952,Budget
+252,User,1.85863287416136,Budget
+252,Funding,-1.52202924944041,Budget
+254,Certificate NGO,-0.601178386080831,Business Model
+254,Certificate Company,-2.31494632772094,Business Model
+254,Direct Investment,2.91612471380177,Business Model
+254,Regional,-0.160464679751495,Location
+254,National,0.18273847758538,Location
+254,International,-0.0222737978338853,Location
+254,No,-1.02951736115284,Synergy
+254,Yes,1.02951736115284,Synergy
+254,Uni,-0.0888892411479944,Budget
+254,User,0.130075779456941,Budget
+254,Funding,-0.0411865383089462,Budget
+258,Certificate NGO,0.380663972139755,Business Model
+258,Certificate Company,-0.651945030179844,Business Model
+258,Direct Investment,0.271281058040098,Business Model
+258,Regional,0.0968662231143625,Location
+258,National,0.0657457283398091,Location
+258,International,-0.162611951454169,Location
+258,No,-1.98286212963454,Synergy
+258,Yes,1.98286212963454,Synergy
+258,Uni,0.359946244274267,Budget
+258,User,0.690541272394268,Budget
+258,Funding,-1.05048751666854,Budget

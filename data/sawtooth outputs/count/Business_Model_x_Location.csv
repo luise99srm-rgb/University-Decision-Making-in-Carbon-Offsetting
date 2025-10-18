@@ -1,0 +1,15 @@
+Category_1,Category_2,Value
+Total Respondents,,122
+Certificate NGO,Regional,0.414
+Certificate NGO,National,0.415
+Certificate NGO,International,0.337
+Certificate Company,Regional,0.234
+Certificate Company,National,0.223
+Certificate Company,International,0.192
+Direct Investment,Regional,*
+Direct Investment,National,0.416
+Direct Investment,International,0.361
+Interaction Chi-Square,,1.989
+D.F.,,4
+Significance,,not sig
+Warning,,some cells have an expected value of less than five.
