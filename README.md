@@ -17,8 +17,8 @@ repo/
 │
 ├── data/                     # Input data and fonts
 │   ├── cm-unicode/           # CMU Serif fonts used for thesis figures
+│   ├── anonymized_responses  # Raw respondent-level survey data (CSV)
 │   └── sawtooth outputs/     # Original Sawtooth CBC exports (Excel + CSV)
-│       ├── CsvAllFields.xlsx # Raw respondent-level survey data
 │       ├── count/            # Count data exports from Sawtooth
 │       ├── logit/            # Logit model exports from Sawtooth
 │       └── hb/               # Hierarchical Bayes output (draws, utilities)
@@ -51,7 +51,7 @@ Each step writes its own tables and figures to the `results/` directory.
 **Folder:** `code/descriptives/`  
 **Main file:** `descriptives_main.R`
 
-- Reads `CsvAllFields.csv` from `data/sawtooth outputs/`.
+- Reads `CsvAllFields.csv` (change to anonymized_responses.csv) from `data/`.
 - Maps categorical variables (gender, education, stakeholder group, etc.).
 - Produces:
   - Age histograms (overall and by university)
@@ -173,3 +173,4 @@ install.packages(c(
 **Luise Schorm**  
 Student ID: 23-600-646  
 📧 [luise.schorm@student.unisg.ch](mailto:luise.schorm@student.unisg.ch)
+
